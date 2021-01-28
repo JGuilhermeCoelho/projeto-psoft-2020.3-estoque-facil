@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EstoqueFacilRestApi",
+            "request": "launch",
+            "mainClass": "com.ufcg.psoft.EstoqueFacilRestApi"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-EstoqueFacilRestApi<EstoqueFacil-Psoft>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.ufcg.psoft.EstoqueFacilRestApi",
+            "projectName": "EstoqueFacil-Psoft",
+            "args": ""
+        }
+    ]
+}
